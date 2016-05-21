@@ -35,6 +35,8 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Power (Socket)
 ## Free WiFi
 * For Celcom, they have a hotspot network so when you add a data plan to your prepaid SIM card, they will SMS you the account information.
+* There is Free WiFi at McDonald's outlets.
+
 ## Goods and Services Tax (GST)
 ## Tipping
 ## Communication
