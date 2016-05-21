@@ -30,6 +30,8 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## About KL
 ## Meetups
 ## Data SIM Card
+* You can try any telcos but there is a promo under Celcom (Magic SIM Prepaid) which allows you to have free unlimited data access from 1AM to 7AM.
+
 ## Power (Socket)
 ## Free WiFi
 * For Celcom, they have a hotspot network so when you add a data plan to your prepaid SIM card, they will SMS you the account information.
@@ -37,7 +39,6 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Tipping
 ## Communication
 
-* You can try any telcos but there is a promo under Celcom (Magic SIM Prepaid) which allows you to have free unlimited data access from 1AM to 7AM.
 ## What to Buy to Bring Back Home
 
 ## Don'ts
