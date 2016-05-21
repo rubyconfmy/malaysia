@@ -44,7 +44,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Getting Around
 
 * Uber & GrabTaxi are the 2 most popular taxi / ride App around
-* If you hail a cab, as them to turn on the meter or use GrabTaxi
+* If you hail a cab, ask them to turn on the meter or use GrabTaxi
 
 ## Food
 ## Drinking Locations
