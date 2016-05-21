@@ -14,6 +14,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 - [Goods and Services Tax (GST)](#goods-and-services-tax-gst)
 - [Tipping](#tipping)
 - [Communication](#communication)
+  * You can try any telcos but there is a promo under Celcom (Magic SIM) which allows you to have free data access from 1AM to 7AM.
 - [What to Buy to Bring Back Home](#what-to-buy-to-bring-back-home)
 - [Don'ts](#donts)
 - [Getting Around](#getting-around)
