@@ -1,12 +1,13 @@
 Hi, welcome to Malaysia! The land of nasi lemak & durian :D
 
-This handbook is inspired by our neighbour's [handbook](https://github.com/rubysg/singapore), and it's something that the Kuala Lumpur's Ruby community, the [KL Ruby Brigade](http://rubybrigade.my), put together as a guide to anyone who's visiting Malaysia. 
+This handbook is inspired by our neighbour's [handbook](https://github.com/rubysg/singapore), and it's something that the Kuala Lumpur's Ruby community, the [KL Ruby Brigade](http://rubybrigade.my), put together as a guide to anyone who's visiting Malaysia.
 
 This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the time being.
 
 ## Table of Contents
 
 - [About KL](#about-kl)
+- [Accommodation](#accommodation)
 - [Meetups](#meetups)
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
@@ -30,9 +31,13 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## About KL
 * Feel the pulse of Malaysia in Kuala Lumpur, its capital and largest city. The famous Petronas Twin Towers, one of the tallest twin building in the world, provides a bird's-eye view of the cosmopolitan metropolis and houses a multitude of shops and art galleries. For a look at the city's past, take in the 1910 Moorish-inspired Old Railway Station, the riverside Jamek Mosque and the Sultan Abdul Samad building with its 131-foot clock tower. Also, pay a visit to Batu Caves, which has 272 steps to reach the shrine of the Hindu deity Lord Subramaniam and set within an outcrop of lime stone caves. If you are craving for foods, we have Malay, Chinese and Indian influences that ensure colorful dining experiences.
 
+## Accommodation
+* Hotels
+* AirBnB
+
 ## Meetups
 ## Data SIM Card
-
+* You can get your sim card at the KLIA / KLIA2 upon arrival. There are many telco providers that you can choose with Maxis, Digi, Celcom. Find the telcos that meets your usage and coverage area.
 * You can try any telcos but there is a promo under Celcom (Magic SIM Prepaid) which allows you to have free unlimited data access from 1AM to 7AM.
 
 ## Power (Socket)
@@ -44,6 +49,8 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 * There is Free WiFi at McDonald's outlets.
 
 ## Goods and Services Tax (GST)
+* Guide on Tourist Refund Scheme - 	http://goo.gl/PvA3ny
+
 ## Tipping
 * Most of the fine dining restaurants charge 10% service fee, that does not reach the staff. The tip will always end up in a tip box which will less likely to be redistributed to the staffs. However, if you feel like you got good service, it wouldn't hurt to tip or leave some change at the tip jar some establishments have.
 
