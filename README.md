@@ -23,6 +23,8 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 - [Shopping](#shopping)
 - [Sight Seeing](#sight-seeing)
 - [Currency](#currency)
+ * If you have a Maybank Singapore ATM card, you can withdraw Malaysian Currency for free at Maybank Malaysia ATM Machines. http://info.maybank2u.com.sg/personal/deposits-banking/payments-remittances/atm-services.aspx
+
 - [Co-working Spaces](#co-working-spaces)
 - [License](#license)
 - [Contributors](#contributors)
