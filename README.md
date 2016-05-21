@@ -16,7 +16,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 - [Communication](#communication)
 - [What to Buy to Bring Back Home](#what-to-buy-to-bring-back-home)
 - [Don'ts](#donts)
-  * Put your laptop bags in the car, potential for thieves to target and steal
+  * Don't put laptop (with bags) in the car, potential for thieves to target and steal. Bring it along with you.
 - [Getting Around](#getting-around)
 - [Food](#food)
 - [Drinking Locations](#drinking-locations)
