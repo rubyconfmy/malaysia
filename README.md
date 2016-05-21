@@ -100,6 +100,8 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 
 
 ## Currency
+* If you have a Maybank Singapore ATM card, you can withdraw Malaysian Currency for without any fee (but including exchange rates of course) using RegionLink at any Maybank Malaysia ATM Machines. Please activate this feature before you travel so it would be convenient for you. http://info.maybank2u.com.sg/personal/deposits-banking/payments-remittances/atm-services.aspx
+
 ## Co-working Spaces
 * [TheCo](http://jointhe.co/bangsar/?gclid=Cj0KEQjwjoC6BRDXuvnw4Ym2y8MBEiQACA-jWW3pkalhwOJ92Gajj3MHhIv2G8qrvNNwC_Y5xqHzFrwaAj5-8P8HAQ)
 *
