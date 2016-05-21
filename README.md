@@ -25,7 +25,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 - [Currency](#currency)
 - [Co-working Spaces](#co-working-spaces)
 - [License](#license)
-
+- [Contributors](#contributors)
 
 ## About KL
 * Feel the pulse of Malaysia in Kuala Lumpur, its capital and largest city. The famous Petronas Twin Towers, one of the tallest twin building in the world, provides a bird's-eye view of the cosmopolitan metropolis and houses a multitude of shops and art galleries. For a look at the city's past, take in the 1910 Moorish-inspired Old Railway Station, the riverside Jamek Mosque and the Sultan Abdul Samad building with its 131-foot clock tower. Also, pay a visit to Batu Caves, which has 272 steps to reach the shrine of the Hindu deity Lord Subramaniam and set within an outcrop of lime stone caves. If you are craving for foods, we have Malay, Chinese and Indian influences that ensure colorful dining experiences.
@@ -81,3 +81,8 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## License
 
 Released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+
+## Contributors
+
+[jimmynguyc](https://github.com/jimmynguyc), [muhammadn](https://github.com/muhammadn), [kylefoo](https://github.com/kylefoo)
