@@ -50,6 +50,11 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Drinking Locations
 ## Major Hawker Centres
 ## Shopping
+
+* If you're shopping cheap, there is Petaling Street where you can get stuff.
+* There is 'The Curve' mall where you can hang out and more 'expensive' shopping.
+* For phone/laptops/gadgets, there is Low Yat Plaza.
+* Around Low Yat Plaza, there is Bukit Bintang Plaza and Sungei Wang Plaza for shopping as well (like clothes).
 ## Sight Seeing
 ## Currency
 ## Co-working Spaces
