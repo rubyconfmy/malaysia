@@ -48,23 +48,28 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 * Most of the fine dining restaurants charge 10% service fee, that does not reach the staff. The tip will always end up in a tip box which will less likely to be redistributed to the staffs. However, if you feel like you got good service, it wouldn't hurt to tip or leave some change at the tip jar some establishments have.
 
 ## Communication
+* Malaysian peeps have the so called Manglish which the sentence normally ends with -lah, -lo, -leh...
+* If you have been to Singapore, same smae lah ~~ More explain [here](https://www.quora.com/What-are-the-differences-between-Manglish-and-Singlish)
 
 ## What to Buy to Bring Back Home
+* White Coffee - Local made coffee recipe 
+* Batik - Nice Fabric made of silk, yes pamper your wife
 
 ## Don'ts
 * Don't put laptop (with bags) in the car, potential for thieves to target and steal. Bring it along with you.
 
 ## Getting Around
-* Uber & GrabTaxi are the 2 most popular taxi / ride App around
+* Uber & Grab are the 2 most popular taxi / ride App around
 * If you hail a cab, ask them to turn on the meter or use GrabTaxi
 
 ## Food
 * Street food for the win @JalanAlor! [https://youtu.be/OzkC8HRjHw0]
-* (Jalan Alor)[https://www.tourplus.my/en/attractions/foot-hunt-in-jalan-alor]
+* [Jalan Alor](https://www.tourplus.my/en/attractions/foot-hunt-in-jalan-alor)
+* Try Durian maybe?
 
 ## Drinking Locations
-* Skybar (SkyBar is at a distance of 1 km from Suria KLCC. From the Suria KLCC Putra Line station, simply enter Suria KLCC and make your way through the underpass tunnel connecting from the lower-ground level of Suria KLCC (next to Kentucky) to the Kuala Lumpur Convention Centre. From here it's a 5 minute walk through the tunnel to SkyBar.)
-* No Black Tie (NBT, as it's known to its fans, is owned by Malaysian concert pianist Evelyn Hii who has a knack for finding talented singer-songwriters, jazz bands and classical-music ensembles who play here from around 9:30 pm)
+* [Skybar](http://www.shangri-la.com/kualalumpur/traders/dining/bars-lounges/sky-bar/) - SkyBar is at a distance of 1 km from Suria KLCC. From the Suria KLCC Putra Line station, simply enter Suria KLCC and make your way through the underpass tunnel connecting from the lower-ground level of Suria KLCC (next to Kentucky) to the Kuala Lumpur Convention Centre. From here it's a 5 minute walk through the tunnel to SkyBar.
+* [No Black Tie](http://noblacktie.com.my/) - NBT, as it's known to its fans, is owned by Malaysian concert pianist Evelyn Hii who has a knack for finding talented singer-songwriters, jazz bands and classical-music ensembles who play here from around 9:30 pm
 * The Bee Publika
 
 ## Major Hawker Centres
@@ -78,7 +83,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Sight Seeing
 * Kuala Lumpur City Centre
 * Kuala Lumpur Tower
-* Atmoshpere 360
+* [Atmoshpere 360](http://www.atmosphere360.com.my/)
 * Petaling Street
 * KL Bird park
 * National Museum Negara
@@ -89,6 +94,8 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 
 ## Currency
 ## Co-working Spaces
+* [TheCo](http://jointhe.co/bangsar/?gclid=Cj0KEQjwjoC6BRDXuvnw4Ym2y8MBEiQACA-jWW3pkalhwOJ92Gajj3MHhIv2G8qrvNNwC_Y5xqHzFrwaAj5-8P8HAQ)
+*
 
 ## License
 
