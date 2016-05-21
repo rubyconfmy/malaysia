@@ -37,7 +37,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Tipping
 ## Communication
 
-* You can try any telcos but there is a promo under Celcom (Magic SIM Prepaid) which allows you to have free data access from 1AM to 7AM.
+* You can try any telcos but there is a promo under Celcom (Magic SIM Prepaid) which allows you to have free unlimited data access from 1AM to 7AM.
 ## What to Buy to Bring Back Home
 
 ## Don'ts
