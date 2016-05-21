@@ -111,4 +111,4 @@ Released under the [MIT License](http://www.opensource.org/licenses/MIT).
 
 ## Contributors
 
-[jimmynguyc](https://github.com/jimmynguyc), [muhammadn](https://github.com/muhammadn), [kylefoo](https://github.com/kylefoo)
+[jimmynguyc](https://github.com/jimmynguyc), [muhammadn](https://github.com/muhammadn), [kylefoo](https://github.com/kylefoo), [iqbalhasnan](https://github.com/iqbalhasnan)
