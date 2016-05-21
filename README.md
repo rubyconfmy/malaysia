@@ -1,6 +1,6 @@
 Hi, welcome to Malaysia! The land of nasi lemak & durian :D
 
-This handbook is inspired by our neighbour's [handbook](https://github.com/rubysg/singapore), and it's something that the Kuala Lumpur's Ruby community [KL Ruby Brigade](http://rubybrigade.my), put together as a guide to anyone who's visiting Malaysia. 
+This handbook is inspired by our neighbour's [handbook](https://github.com/rubysg/singapore), and it's something that the Kuala Lumpur's Ruby community, the [KL Ruby Brigade](http://rubybrigade.my), put together as a guide to anyone who's visiting Malaysia. 
 
 This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the time being.
 
