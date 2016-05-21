@@ -33,16 +33,22 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Meetups
 ## Data SIM Card
 
+* You can try any telcos but there is a promo under Celcom (Magic SIM Prepaid) which allows you to have free unlimited data access from 1AM to 7AM.
+
 ## Power (Socket)
 * In Malaysia the standard voltage is 240 V. The standard frequency is 50 Hz.
 * http://grab.by/QiUi
 
 ## Free WiFi
+* For Celcom, they have a hotspot network so when you add a data plan to your prepaid SIM card, they will SMS you the account information.
+* There is Free WiFi at McDonald's outlets.
+
 ## Goods and Services Tax (GST)
 ## Tipping
 * Most of the fine dining restaurants charge 10% service fee, that does not reach the staff. The tip will always end up in a tip box which will less likely to be redistributed to the staffs. However, if you feel like you got good service, it wouldn't hurt to tip or leave some change at the tip jar some establishments have.
 
 ## Communication
+
 ## What to Buy to Bring Back Home
 
 ## Don'ts
@@ -50,7 +56,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 
 ## Getting Around
 * Uber & GrabTaxi are the 2 most popular taxi / ride App around
-* If you hail a cab, as them to turn on the meter or use GrabTaxi
+* If you hail a cab, ask them to turn on the meter or use GrabTaxi
 
 ## Food
 * Street food for the win @JalanAlor! https://youtu.be/OzkC8HRjHw0
@@ -64,6 +70,11 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Major Hawker Centres
 ## Shopping
 
+* If you're shopping cheap, there is Petaling Street where you can get stuff.
+* There is 'The Curve' mall where you can hang out and more 'expensive' shopping.
+* To shop for phone/laptops/gadgets, there is Low Yat Plaza.
+* Around Low Yat Plaza, there is Bukit Bintang Plaza and Sungei Wang Plaza for shopping as well (like clothes).
+
 ## Sight Seeing
 * Kuala Lumpur City Centre
 * Kuala Lumpur Tower
@@ -73,6 +84,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 * National Museum Negara
 * Thean Hou Temple
 * Batu Caves (https://www.tourplus.my/en/attractions/batu-caves)
+* Sunway Lagoon
 
 
 ## Currency
