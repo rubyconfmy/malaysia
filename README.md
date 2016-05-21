@@ -54,7 +54,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 
 ## Food
 * Street food for the win @JalanAlor! [https://youtu.be/OzkC8HRjHw0]
-* [https://www.tourplus.my/en/attractions/foot-hunt-in-jalan-alor]
+* (Jalan Alor)[https://www.tourplus.my/en/attractions/foot-hunt-in-jalan-alor]
 
 ## Drinking Locations
 * Skybar (SkyBar is at a distance of 1 km from Suria KLCC. From the Suria KLCC Putra Line station, simply enter Suria KLCC and make your way through the underpass tunnel connecting from the lower-ground level of Suria KLCC (next to Kentucky) to the Kuala Lumpur Convention Centre. From here it's a 5 minute walk through the tunnel to SkyBar.)
