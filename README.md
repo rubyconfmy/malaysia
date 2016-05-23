@@ -123,4 +123,4 @@ Released under the [MIT License](http://www.opensource.org/licenses/MIT).
 
 ## Contributors
 
-[jimmynguyc](https://github.com/jimmynguyc), [muhammadn](https://github.com/muhammadn), [kylefoo](https://github.com/kylefoo), [iqbalhasnan](https://github.com/iqbalhasnan)
+[jimmynguyc](https://github.com/jimmynguyc), [muhammadn](https://github.com/muhammadn), [kylefoo](https://github.com/kylefoo), [iqbalhasnan](https://github.com/iqbalhasnan), [alienxp03](https://github.com/alienxp03), [adrianchinghc](https://github.com/adrianchinghc)
