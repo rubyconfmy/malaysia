@@ -53,10 +53,11 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 
 ## Tipping
 * Most of the fine dining restaurants charge 10% service fee, that does not reach the staff. The tip will always end up in a tip box which will less likely to be redistributed to the staffs. However, if you feel like you got good service, it wouldn't hurt to tip or leave some change at the tip jar some establishments have.
+* For all other places, there is no need to leave tips. It is not really in our culture. Though we won't consider it as rude if you do want to give some tips.
 
 ## Communication
 * Malaysian peeps have the so called Manglish which the sentence normally ends with -lah, -lo, -leh...
-* If you have been to Singapore, same smae lah ~~ More explain [here](https://www.quora.com/What-are-the-differences-between-Manglish-and-Singlish)
+* If you have been to Singapore, same same lah ~~ More explain [here](https://www.quora.com/What-are-the-differences-between-Manglish-and-Singlish)
 
 ## What to Buy to Bring Back Home
 * White Coffee - Local made coffee recipe 
@@ -90,7 +91,7 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Sight Seeing
 * Kuala Lumpur City Centre
 * Kuala Lumpur Tower
-* [Atmoshpere 360](http://www.atmosphere360.com.my/)
+* [Atmosphere 360](http://www.atmosphere360.com.my/)
 * Petaling Street
 * KL Bird park
 * National Museum Negara
