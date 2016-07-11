@@ -82,7 +82,11 @@ This handbook will be for Kuala Lumpur, the capital city of Malaysia, for the ti
 ## Drinking Locations
 * [Skybar](http://www.shangri-la.com/kualalumpur/traders/dining/bars-lounges/sky-bar/) - SkyBar is at a distance of 1 km from Suria KLCC. From the Suria KLCC Putra Line station, simply enter Suria KLCC and make your way through the underpass tunnel connecting from the lower-ground level of Suria KLCC (next to Kentucky) to the Kuala Lumpur Convention Centre. From here it's a 5 minute walk through the tunnel to SkyBar.
 * [No Black Tie](http://noblacktie.com.my/) - NBT, as it's known to its fans, is owned by Malaysian concert pianist Evelyn Hii who has a knack for finding talented singer-songwriters, jazz bands and classical-music ensembles who play here from around 9:30 pm
+* [Fuego](http://www.timeout.com/kuala-lumpur/restaurants/fuego)
+* [Marini's on 57](http://www.timeout.com/kuala-lumpur/nightlife/marinis-on-57)
+* [Tate](http://www.timeout.com/kuala-lumpur/music-and-nightlife/tate)
 * The Bee Publika
+* Changkat Bukit Bintang - it's filled with restaurants, bars, and pubs.
 
 ## Major Hawker Centres
 
